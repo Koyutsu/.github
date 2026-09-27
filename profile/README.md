@@ -1,6 +1,8 @@
 Koyutsu (構術)
 > Kō (構) - structure, construction, composition
+> 
 > Jutsu (術) - technique, craft, method
+> 
 > The craft of construction.
 > 
 Koyutsu is an early work-in-progress, fully self-written Wayland compositor and desktop shell designed to integrate window management, widgets, menus, and styling into a single, unified system.
