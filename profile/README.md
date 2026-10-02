@@ -21,3 +21,4 @@ Project Status:
 Contributing & Community:
 Contributions, ideas, and feedback are welcome as the core architecture takes shape. Feel free to open issues or join discussions in our repositories.
 
+<sub><sup>Made in Germany.</sup></sub>
