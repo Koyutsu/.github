@@ -10,7 +10,7 @@ Koyutsu is an early work-in-progress, fully self-written Wayland compositor and 
 Core Concepts:
  * Integrated Architecture: Built from scratch to bring the compositor, desktop shell, wallpaper engine, and layout system into one seamless binary.
  * Flexible Layouts: Native support for both tiling and floating window modes, with modular support for experimental custom layouts.
- * Modular Widget System: Extensible widgets built using C, C++, Python, or precompiled binaries located in ~/.widgets/ with native CSS styling and standalone config.json definitions.
+ * Modular Widget System: Extensible widgets built using C, C++, Python, or precompiled binaries located in ~/.widgets/ with native CSS styling and standalone config.json definitions. (planned)
  * Unified Theme Engine: CSS-driven visual properties (borders, rounded corners, transparency, accent colors) designed for easy, ecosystem-wide theme installation.
 
 Project Status:
