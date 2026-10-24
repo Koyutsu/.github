@@ -14,3 +14,6 @@ Koyutsu isnt one project, its a stack, built bottom-up, each layer is its own re
 ## Philosophy
 Everything here is built from fully scratch (except LuminanNT), not forked or stripped down from existing projects.
 Only some Projects are forked, for compatability.
+
+Our Discord:
+[Koyutsu Development](https://discord.gg/Bc6pfvsw96)
